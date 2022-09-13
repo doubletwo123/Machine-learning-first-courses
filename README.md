@@ -4,4 +4,4 @@
 ### 2. If you find problem in this reposity ,please didi me 😛!
 ### 3. 😽😽😽The last but not least ,Don't forgeting Star for me!
 ## Directory:
-> **[LabOne]() **
+> **[LabOne](https://github.com/doubletwo123/Machine-learning-first-courses/tree/Lab-1)**
