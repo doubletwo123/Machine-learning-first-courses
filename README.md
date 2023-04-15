@@ -1,7 +1,3 @@
-## Machine-learning-first-courses
-😆😆😆Advanced Placement for ML beginner in University of South China !
-### 1.Attention:🌟🌟🌟Don't copy this homework in the reposity and you have the duty for own studies ❗❗❗
-### 2. If you find problem in this reposity ,please didi me 😛!
-### 3. 😽😽😽The last but not least ,Don't forgeting Star for me!
-## Directory:
-> **[LabOne](https://github.com/doubletwo123/Machine-learning-first-courses/tree/Lab-1)**
+##  该项目仅为个人学习使用！！
+1. [pytorch的基本使用](https://github.com/doubletwo123/Machine-learning-first-courses/blob/master/pytorch%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.ipynb)
+
